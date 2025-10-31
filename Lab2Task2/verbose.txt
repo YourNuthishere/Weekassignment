@@ -1,0 +1,6 @@
+Start time: 2025-11-01T04:46:07+07:00
+Reading words from: nord_vpn.txt
+Target SHA1: aa1c7d931cf140bb35a5a16adeb83a551649c3b9
+Beginning cracking loop...
+No match found after 0 attempts.
+End time: 2025-11-01T04:46:07+07:00
