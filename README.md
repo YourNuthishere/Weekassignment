@@ -4,7 +4,7 @@ This repository contains all completed password cracking labs (Lab 1, Lab 2, Lab
 
 ---
 
-## Lab 1: MD5 Password Cracker
+## Lab 2 Task1: MD5 Password Cracker
 - **Goal:** Crack an MD5 hash using a wordlist.
 - **Target MD5:** `6a85dfd77d9cb35770c9dc6728d73d3f`
 - **Files:**
@@ -16,7 +16,7 @@ This repository contains all completed password cracking labs (Lab 1, Lab 2, Lab
 
 ---
 
-## Lab 2: SHA1 Password Cracker
+## Lab 2 task2: SHA1 Password Cracker
 - **Goal:** Crack a SHA1 hash using a wordlist.
 - **Target SHA1:** `aa1c7d931cf140bb35a5a16adeb83a551649c3b9`
 - **Files:**
